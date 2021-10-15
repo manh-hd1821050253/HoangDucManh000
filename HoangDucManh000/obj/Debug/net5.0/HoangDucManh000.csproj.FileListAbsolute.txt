@@ -144,3 +144,13 @@ C:\Users\Admin\Desktop\hoctap\HoangDucManh000\HoangDucManh000\obj\Debug\net5.0\H
 C:\Users\Admin\Desktop\hoctap\HoangDucManh000\HoangDucManh000\obj\Debug\net5.0\ref\HoangDucManh000.dll
 C:\Users\Admin\Desktop\hoctap\HoangDucManh000\HoangDucManh000\obj\Debug\net5.0\HoangDucManh000.pdb
 C:\Users\Admin\Desktop\hoctap\HoangDucManh000\HoangDucManh000\obj\Debug\net5.0\HoangDucManh000.genruntimeconfig.cache
+C:\Users\Admin\Desktop\hoctap\HoangDucManh000\HoangDucManh000\obj\Debug\net5.0\Razor\Views\PersonHDM000\Create.cshtml.g.cs
+C:\Users\Admin\Desktop\hoctap\HoangDucManh000\HoangDucManh000\obj\Debug\net5.0\Razor\Views\PersonHDM000\Delete.cshtml.g.cs
+C:\Users\Admin\Desktop\hoctap\HoangDucManh000\HoangDucManh000\obj\Debug\net5.0\Razor\Views\PersonHDM000\Details.cshtml.g.cs
+C:\Users\Admin\Desktop\hoctap\HoangDucManh000\HoangDucManh000\obj\Debug\net5.0\Razor\Views\PersonHDM000\Edit.cshtml.g.cs
+C:\Users\Admin\Desktop\hoctap\HoangDucManh000\HoangDucManh000\obj\Debug\net5.0\Razor\Views\PersonHDM000\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\hoctap\HoangDucManh000\HoangDucManh000\obj\Debug\net5.0\Razor\Views\HDM0000\Create.cshtml.g.cs
+C:\Users\Admin\Desktop\hoctap\HoangDucManh000\HoangDucManh000\obj\Debug\net5.0\Razor\Views\HDM0000\Delete.cshtml.g.cs
+C:\Users\Admin\Desktop\hoctap\HoangDucManh000\HoangDucManh000\obj\Debug\net5.0\Razor\Views\HDM0000\Details.cshtml.g.cs
+C:\Users\Admin\Desktop\hoctap\HoangDucManh000\HoangDucManh000\obj\Debug\net5.0\Razor\Views\HDM0000\Edit.cshtml.g.cs
+C:\Users\Admin\Desktop\hoctap\HoangDucManh000\HoangDucManh000\obj\Debug\net5.0\Razor\Views\HDM0000\Index.cshtml.g.cs

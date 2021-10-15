@@ -15,5 +15,7 @@ namespace HoangDucManh000.Data
         }
 
         public DbSet<HoangDucManh000.Models.PersonHDM000> PersonHDM000 { get; set; }
+
+        public DbSet<HoangDucManh000.Models.HDM0000> HDM0000 { get; set; }
     }
 }
