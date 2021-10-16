@@ -3,14 +3,16 @@ using HoangDucManh000.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace HoangDucManh000.Migrations
 {
     [DbContext(typeof(HoangDucManh000Context))]
-    partial class HoangDucManh000ContextModelSnapshot : ModelSnapshot
+    [Migration("20211016144833_InitialCreatee")]
+    partial class InitialCreatee
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
